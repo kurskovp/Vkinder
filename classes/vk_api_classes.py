@@ -2,11 +2,11 @@ import os
 import time
 from datetime import datetime, date
 import requests
-from сlasses.vk_api_constants import RATINGS
+from classes.vk_api_constants import RATINGS
 
 
 # DTO classes
-from сlasses.vkinder_bot_constants import PHRASES
+from classes.vkinder_bot_constants import PHRASES
 
 
 class ApiCity:

@@ -1,6 +1,6 @@
 from keys import GROUP_TOKEN, PERSONAL_TOKEN, GROUP_ID, APP_ID, DB_NAME, DB_LOGIN, DB_PASSWORD, DB_DRIVER, DB_HOST, \
     DB_PORT
-from сlasses.vkinder_bot import VKinderBot
+from classes.vkinder_bot import VKinderBot
 
 """
 Перед началом использования переименуйте файл "default_keys.py" в "keys.py" и укажите в нем свои токены и данные
